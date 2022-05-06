@@ -1,2 +1,2 @@
 # calculator
-calculator is a practice of python,Numpy
+calculator is a tkinter, numpy excersize.
