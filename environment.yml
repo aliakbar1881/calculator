@@ -1,0 +1,8 @@
+name:
+  calculator
+
+dependencies:
+  - python=3.8
+  - numpy
+  - jupyter
+  - streamlit
